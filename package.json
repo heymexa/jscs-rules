@@ -1,0 +1,11 @@
+{
+    "name": "jscs-rules",
+    "version": "0.0.1",
+    "author": "Mikhail Voronov <heymexa@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/heymexa/jscs-rules.git"
+    },
+    "dependencies": {},
+    "license": "MIT"
+}
