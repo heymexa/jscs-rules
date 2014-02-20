@@ -1,6 +1,6 @@
 {
     "name": "jscs-rules",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Mikhail Voronov <heymexa@gmail.com>",
     "repository": {
         "type": "git",
