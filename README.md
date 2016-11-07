@@ -1,6 +1,6 @@
 ## Installation
 ```sh
-npm install -g git+https://github.com/HeyMeXa/jscs-rules.git
+npm install git+https://github.com/HeyMeXa/jscs-rules.git
 ```
 ## Configuration
 Add to your `.jscs-json` the parameter `additionalRules` for a custom validation rules.
